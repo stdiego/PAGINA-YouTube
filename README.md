@@ -7,12 +7,12 @@ Este repositorio contiene dos versiones de una estructura básica para un clon d
 El repositorio se divide en dos enfoques de desarrollo para comparar resultados:
 
 ### 1. Desarrollo Manual ("Sin IA")
-* **Archivo:** `index_sin_ia.html`
+* **Archivo:** `youTube.html`
 * **Descripción:** Esta versión fue creada de forma iterativa y manual. El objetivo fue resolver los problemas de posicionamiento, filas (`rowspan`) y columnas (`colspan`) a través de la lógica pura y prueba-error.
 * **Aprendizaje:** Ayudó a entender profundamente cómo los navegadores renderizan tablas anidadas y la importancia de la jerarquía de las etiquetas.
 
 ### 2. Desarrollo Asistido ("Con IA")
-* **Archivo:** `index_con_ia.html`
+* **Archivo:** `YouTubeIA.html`
 * **Descripción:** Esta versión fue optimizada con la asistencia de una Inteligencia Artificial. Se buscó mejorar la estructura del código, la limpieza de las etiquetas y la eficiencia al agrupar los elementos en una tabla maestra más coherente.
 * **Aprendizaje:** Demostró cómo la IA puede sugerir estructuras más sólidas (como el uso de una tabla contenedora general) que reducen la redundancia y mejoran la legibilidad del código.
 
